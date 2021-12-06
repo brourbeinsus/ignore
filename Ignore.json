@@ -1,0 +1,19 @@
+{
+	"name": "Gooranium",
+	"author": "MrCube_",
+	"size": [40, 40],
+	"rowPreviewFrame": 0,
+	"rowPreviewOffset": [0, 0],
+	"clips": [
+		{ "name": "neutral", "frames": [1, 0, 0], "loop": "onBeat", "fps": 4, "loopStart": 0, "portraitOffset": [10, 10], "portraitSize": [25, 25], "portraitScale": 2 },
+		{ "name": "happy", "frames": [2, 2, 3, 4, 4, 4, 4, 4, 0], "loop": "no", "fps": 6, "loopStart": 0, "portraitOffset": [10, 10], "portraitSize": [25, 25], "portraitScale": 2 },
+		{ "name": "barely", "frames": [5, 5, 5, 6, 6, 6, 6], "loop": "no", "fps": 3, "loopStart": 0, "portraitOffset": [10, 10], "portraitSize": [25, 25], "portraitScale": 2 },
+		{ "name": "missed", "frames": [6, 7, 8, 9, 10, 10], "loop": "yes", "fps": 6, "loopStart": 4, "portraitOffset": [10, 10], "portraitSize": [25, 25], "portraitScale": 2 },
+		{ "name": "anxious", "frames": [11], "loop": "yes", "fps": 1, "loopStart": 0, "portraitOffset": [10, 10], "portraitSize": [25, 25], "portraitScale": 2 },
+		{ "name": "scared", "frames": [12], "loop": "yes", "fps": 1, "loopStart": 0, "portraitOffset": [10, 10], "portraitSize": [25, 25], "portraitScale": 2 },
+		{ "name": "mouse", "frames": [13], "loop": "yes", "fps": 1, "loopStart": 0, "portraitOffset": [10, 10] },
+		{ "name": "altmouse", "frames": [14], "loop": "yes", "fps": 1, "loopStart": 0, "portraitOffset": [10, 10] },
+		{ "name": "loopscared", "frames": [12, 11, 11, 11], "loop": "onBeat", "fps": 4, "loopStart": 0, "portraitOffset": [10, 10], "portraitSize": [25, 25], "portraitScale": 2 },
+		{ "name": "altbarely", "frames": [15, 15, 15, 16, 16, 16, 16], "loop": "no", "fps": 3, "loopStart": 3, "portraitOffset": [10, 10], "portraitSize": [25, 25], "portraitScale": 2 } 
+	]
+}
